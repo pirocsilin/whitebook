@@ -1,0 +1,22 @@
+
+BODY { margin-top:0;
+	   margin-left:0;
+	   width:560pt;
+	   background-color:#FFFFFF;
+	   color:#000000;
+	   }
+	   
+P.one { background-color:#FFFFFF;
+		border-left: 4px solid red;
+		padding-left:1.5em;
+		padding-right:0.5em;
+		padding-top:2em;
+		padding-bottom:0;
+		font-family:Calibri;
+		font-size:13pt;
+		text-indent:2em;
+		line-height:1.5em;
+		text-align:justify;
+		}
+		
+.fig {text-align: center}
